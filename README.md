@@ -1,5 +1,20 @@
-PORTFOLIO POWER BI
+# PORTFOLIO POWER BI 📅
 
 
 
-![68747470733a2f2f692e696d6775722e636f6d2f6c5a573772664a2e676966](https://user-images.githubusercontent.com/103086923/199846852-452bc4be-f914-44df-9a8c-4126d02e26a5.gif)
+## DASHBOARD VENDAS 📊
+
+![20221116153431](C:\workspace\Portfolio-Power-BI\Dashboard Vendas\20221116153431.gif)
+
+##### Dashboard criado para exemplificar a criação de relatório:
+
+- Informações da Empresa
+
+- Lucro da Empresa
+- Faturamento por tipo
+
+- Quais os maiores faturamentos por tipo
+
+- Qual marca faturou mais faturou
+
+- Seleção por periodo em anos ou meses
