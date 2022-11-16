@@ -4,7 +4,7 @@
 
 ## DASHBOARD VENDAS 📊
 
-![20221116153431](C:\workspace\Portfolio-Power-BI\Dashboard Vendas\20221116153431.gif)
+![20221116153431](https://user-images.githubusercontent.com/103086923/202266950-7a07a94e-73ed-4564-a5bb-d9081993af20.gif)
 
 ##### Dashboard criado para exemplificar a criação de relatório:
 
